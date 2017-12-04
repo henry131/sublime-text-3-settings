@@ -1,15 +1,12 @@
-oisin's sublime-settings
+Henry's sublime-settings
 =========================
 
-Oisin's variant of https://github.com/vaxXxa/sublime-text-3-settings
-
-I've commited to sublime text 3, just need to figure out how to get all the bits and pieces I used to have running again.
-
+Henry's variant of https://github.com/oisinmulvihill/sublime-text-3-settings & https://github.com/vaxXxa/sublime-text-3-settings
 
 Installation
 ------------
 
-First install `Sublime Package Control`_.
+First install `Sublime Package Control`_ (quickest way is ``cmd+shift+p`` -> 'Install Package Control')
 
 And reopen ``Sublime Text 3``.
 
@@ -17,7 +14,7 @@ You can clone the repository wherever you want (I like to keep it in ``~/Documen
 
 .. code:: bash
 
-    $ git clone git@github.com:oisinmulvihill/sublime-text-3-settings.git sublime-settings && cd sublime-settings && make
+    $ git clone git@github.com:henry131/sublime-text-3-settings.git sublime-settings && cd sublime-settings && make
 
 
 Start new ST3 and enter the license. Now install PackageControl and "Theme - Gravity" and exit. Be carefull of the Local/Session.sublime_session 
