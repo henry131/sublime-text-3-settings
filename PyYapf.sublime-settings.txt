@@ -69,7 +69,8 @@
             //   end_ts=now(),
             // )        # <--- this bracket is dedented and on a separate line
 
-            "DEDENT_CLOSING_BRACKETS": false,
+            "DEDENT_CLOSING_BRACKETS": true,
+            "COALESCE_BRACKETS": true,
 
             // The regex for an i18n comment. The presence of this comment stops
             // reformatting of that line, because the comments are required to be
@@ -91,7 +92,7 @@
             //     'key2': value1 +
             //             value2,
             // }
-            "INDENT_DICTIONARY_VALUE": false,
+            "INDENT_DICTIONARY_VALUE": true,
 
             // The number of columns to use for indentation.
             "INDENT_WIDTH": 4,
