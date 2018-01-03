@@ -31,6 +31,14 @@ To update, ``cd`` into your local ``sublime-settings`` repository and then:
 After that open ``Sublime Text 3`` and wait a few minutes. All packages are downloaded automatically. Then restart ``Sublime Text 3``.
 
 
+Theme
+-----
+
+Current setup uses the Monokai-based Gravity One theme:
+
+https://packagecontrol.io/packages/Theme%20-%20Gravity
+
+
 OS X Command Line
 -----------------
 
