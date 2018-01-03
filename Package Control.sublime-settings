@@ -21,6 +21,7 @@
 		"Glue",
 		"Jinja2",
 		"Package Control",
+		"PyYapf Python Formatter",
 		"requirementstxt",
 		"RestructuredText Improved",
 		"SideBarEnhancements",
@@ -28,6 +29,6 @@
 		"SublimeLinter-flake8",
 		"SublimeLinter-contrib-eslint",
 		"Themr",
-		"PyYapf Python Formatter"
+		"Theme - Gravity",
 	]
 }

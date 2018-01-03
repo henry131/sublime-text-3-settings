@@ -6,19 +6,21 @@ Henry's variant of https://github.com/oisinmulvihill/sublime-text-3-settings & h
 Installation
 ------------
 
+Start new ST3 and enter the license.
+
 First install `Sublime Package Control`_ (quickest way is ``cmd+shift+p`` -> 'Install Package Control')
 
 And reopen ``Sublime Text 3``.
 
-You can clone the repository wherever you want (I like to keep it in ``~/Documents/Projects/sublime-settings``). The bootstrapper script will pull in the latest version and copy the files to your home folder.
+You can clone the repository wherever you want (I keep it in ``~/Documents/Projects/sublime-settings``). The bootstrapper script will pull in the latest version and copy the files to your home folder.
 
 .. code:: bash
 
-    $ git clone git@github.com:henry131/sublime-text-3-settings.git sublime-settings && cd sublime-settings && make
+    $ git clone git@github.com:henry131/sublime-text-3-settings.git sublime-settings
 
 
-Start new ST3 and enter the license. Now install PackageControl and "Theme - Gravity" and exit. Be carefull of the Local/Session.sublime_session 
-and old project files which may have themes you don't have installed.
+Run
+---
 
 To update, ``cd`` into your local ``sublime-settings`` repository and then:
 
