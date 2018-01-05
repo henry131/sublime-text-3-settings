@@ -2,7 +2,7 @@
 	<content><![CDATA[
 import ipdb; ipdb.set_trace()
 ]]></content>
-	<tabTrigger>ipd</tabTrigger>
+	<tabTrigger>ipdb</tabTrigger>
 	<scope>source.python</scope>
 	<description>ipdb debug tool</description>
 </snippet>
